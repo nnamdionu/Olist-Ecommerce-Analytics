@@ -93,7 +93,7 @@ The accompanying SQL script is organized into nine sections:
 8. Executive business, financial, delivery, and satisfaction KPIs
 9. Data-quality checks for duplicate identifiers, missing values, and unmatched relationships
 
-See [`sql/olist_ecommerce_analysis.sql`](sql/olist_ecommerce_analysis.sql).
+See [olist_ecommerce_analysis.sql](olist_ecommerce_analysis.sql).
 
 ## Metric definitions and limitations
 
