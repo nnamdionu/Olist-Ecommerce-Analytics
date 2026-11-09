@@ -122,10 +122,8 @@ See [olist_ecommerce_analysis.sql](olist_ecommerce_analysis.sql).
 ```text
 Olist-Ecommerce-Analytics/
 ├── README.md
-├── sql/
-│   └── olist_ecommerce_analysis.sql
-├── powerbi/
-│   └── Olist_Ecommerce_Analytics_Dashboard.pbix
+├── olist_ecommerce_analysis.sql
+├── Olist_Ecommerce_Analytics_Dashboard.pbix
 └── screenshots/
     ├── 01_Sales_Performance_Overview.png
     ├── 02_Delivery_Customer_Experience.png
